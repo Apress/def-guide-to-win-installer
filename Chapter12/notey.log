@@ -1,0 +1,34 @@
+***** Log starting: 2004-02-29 12:42:08 *****
+
+Input-PCP path                     = 'notepad.pcp'
+Patch-MSP path                     = 'notepad.msp'
+Temp Folder                        = 'C:\DOCUME~1\PHIL~1.H1Z\LOCALS~1\Temp\~PCW_TMP.TMP\'
+Patch GUID                         = '{9E1D9AFC-BFBF-4D97-A4BD-7593B925BD6E}'
+ListOfPatchGUIDsToReplace          = '<none>'
+ListOfTargetProductCodes           = '*'
+PatchSourceList                    = '<blank>'
+AllowProductCodeMismatches         = '0'
+AllowProductVersionMajorMismatches = '0'
+OptimizePatchSizeForLargeFiles     = '<blank>'
+ApiPatchingSymbolFlags             = '0x00000000'
+MsiFileToUseToCreatePatchTables    = '<blank>'
+SqlCmdToCreatePatchTable           = '<blank>'
+SqlCmdToCreatePatchPackageTable    = '<blank>'
+SqlCmdToCreateMsiPatchHeadersTable = '<blank>'
+DontRemoveTempFolderWhenFinished   = '1'
+IncludeWholeFilesOnly              = '0'
+MinimumRequiredMsiVersion          = '200'
+
+Using internal SQL cmd to create 'Patch' table.
+Using internal SQL cmd to create 'PatchPackage' table.
+Using internal SQL cmd to create 'MsiPatchHeaders' table.
+
+  User supressed error for ProductVersions not matching between Target and Upgraded images.
+     Files differ: 'C:\MyDD\PDW\Book\Chap 12\Projects\Admin2\.\SomeTextFile.txt',
+                   'C:\MyDD\PDW\Book\Chap 12\Projects\Admin1\.\SomeTextFile.txt'.
+    Patch API could not create a small patch; using whole upgraded file.
+  Including entire file: 'C:\MyDD\PDW\Book\Chap 12\Projects\Admin2\.\SomeTextFile.txt';
+           FTK=_8267E0FDCD374FB891E8BAC45218DB0B; temp location=Notefam\00002.FLE.
+
+***** Log finishing: 2004-02-29 12:42:13 *****
+

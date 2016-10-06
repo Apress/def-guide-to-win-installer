@@ -1,0 +1,4 @@
+This is a file with one line of text
+and a few more
+because this is the updated
+file for the new version of the product.

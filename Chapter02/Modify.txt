@@ -1,0 +1,2 @@
+INSERT INTO Property (Property.Property, Property.Value) VALUES ('ARPHELPLINK', 'http://www.microsoft.com') 
+UPDATE Property SET Property.Value = 'ALL' WHERE Property.Property = 'FolderForm_AllUsers'

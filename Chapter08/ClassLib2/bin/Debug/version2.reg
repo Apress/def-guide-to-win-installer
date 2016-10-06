@@ -1,0 +1,7 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\CLSID\{D1D38EB0-0210-479A-B8B5-48ADB897A610}\InprocServer32\2.0.0.0]
+"Class"="PDWClass.Class1"
+"Assembly"="ClassLib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=9d5b36c567f9f849"
+"RuntimeVersion"="v1.1.4322"
+"CodeBase"="file:///C:/MyDD/PDW/Book/CHAP8~1/Projects/CLASSL~1/bin/Debug/ClassLib.DLL"

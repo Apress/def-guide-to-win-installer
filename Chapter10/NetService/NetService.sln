@@ -1,0 +1,38 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetService", "NetService.csproj", "{8406839E-2A58-48C5-BD5A-B0EC77F3CC76}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupNetService", "..\SetupNetService\SetupNetService.vdproj", "{1A5BCC9C-F5B7-4E30-8F06-60787682D13F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NetWithServiceTable", "..\NetWithServiceTable\NetWithServiceTable.vdproj", "{B0B0439C-4D38-4338-91F5-6CF0583E6D76}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8406839E-2A58-48C5-BD5A-B0EC77F3CC76} = {8406839E-2A58-48C5-BD5A-B0EC77F3CC76}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8406839E-2A58-48C5-BD5A-B0EC77F3CC76}.Debug.ActiveCfg = Debug|.NET
+		{8406839E-2A58-48C5-BD5A-B0EC77F3CC76}.Debug.Build.0 = Debug|.NET
+		{8406839E-2A58-48C5-BD5A-B0EC77F3CC76}.Release.ActiveCfg = Release|.NET
+		{8406839E-2A58-48C5-BD5A-B0EC77F3CC76}.Release.Build.0 = Release|.NET
+		{1A5BCC9C-F5B7-4E30-8F06-60787682D13F}.Debug.ActiveCfg = Debug
+		{1A5BCC9C-F5B7-4E30-8F06-60787682D13F}.Debug.Build.0 = Debug
+		{1A5BCC9C-F5B7-4E30-8F06-60787682D13F}.Release.ActiveCfg = Release
+		{1A5BCC9C-F5B7-4E30-8F06-60787682D13F}.Release.Build.0 = Release
+		{B0B0439C-4D38-4338-91F5-6CF0583E6D76}.Debug.ActiveCfg = Debug
+		{B0B0439C-4D38-4338-91F5-6CF0583E6D76}.Debug.Build.0 = Debug
+		{B0B0439C-4D38-4338-91F5-6CF0583E6D76}.Release.ActiveCfg = Release
+		{B0B0439C-4D38-4338-91F5-6CF0583E6D76}.Release.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+msgbox "Installed = " & Property("Installed") & " ComputerName = " & Property("ComputerName")

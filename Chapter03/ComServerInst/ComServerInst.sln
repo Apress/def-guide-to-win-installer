@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ComServerInst", "ComServerInst.vdproj", "{483FCF93-52DD-4F82-9AC8-14BB05AED3C0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{483FCF93-52DD-4F82-9AC8-14BB05AED3C0}.Debug.ActiveCfg = Debug
+		{483FCF93-52DD-4F82-9AC8-14BB05AED3C0}.Debug.Build.0 = Debug
+		{483FCF93-52DD-4F82-9AC8-14BB05AED3C0}.Release.ActiveCfg = Release
+		{483FCF93-52DD-4F82-9AC8-14BB05AED3C0}.Release.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

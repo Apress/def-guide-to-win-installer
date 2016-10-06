@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPProj", "http://localhost/ASPProj/ASPProj.csproj", "{B9A4492A-6A12-47AE-81BD-B0D9E6AB03AD}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstASP", "InstASP\InstASP.vdproj", "{BFF15E8E-D1E3-4248-93E8-8CFC4BFF1499}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B9A4492A-6A12-47AE-81BD-B0D9E6AB03AD}.Debug.ActiveCfg = Debug|.NET
+		{B9A4492A-6A12-47AE-81BD-B0D9E6AB03AD}.Debug.Build.0 = Debug|.NET
+		{B9A4492A-6A12-47AE-81BD-B0D9E6AB03AD}.Release.ActiveCfg = Release|.NET
+		{B9A4492A-6A12-47AE-81BD-B0D9E6AB03AD}.Release.Build.0 = Release|.NET
+		{BFF15E8E-D1E3-4248-93E8-8CFC4BFF1499}.Debug.ActiveCfg = Debug
+		{BFF15E8E-D1E3-4248-93E8-8CFC4BFF1499}.Debug.Build.0 = Debug
+		{BFF15E8E-D1E3-4248-93E8-8CFC4BFF1499}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

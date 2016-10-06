@@ -1,0 +1,20 @@
+// TestService.idl : IDL source for TestService.dll
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (TestService.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	uuid(60EFA377-EB70-4AAA-A841-60CC7ACDDE71),
+	version(1.0),
+	helpstring("TestService 1.0 Type Library")
+]
+library TESTSERVICELib
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+};

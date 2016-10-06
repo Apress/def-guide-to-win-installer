@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GACInstall", "GACInstall.csproj", "{6AC0B278-0E07-4A02-A788-BC919B9C4DCA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IntoGAC", "..\IntoGAC\IntoGAC.vdproj", "{DCDFB08B-C045-471B-83DD-0604271D73C3}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExeWantsGac", "..\ExeWantsGac\ExeWantsGac.csproj", "{A87A1565-5CAC-409B-90C7-8A6A2D5C147E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{6AC0B278-0E07-4A02-A788-BC919B9C4DCA}.Debug.ActiveCfg = Release|.NET
+		{6AC0B278-0E07-4A02-A788-BC919B9C4DCA}.Debug.Build.0 = Release|.NET
+		{6AC0B278-0E07-4A02-A788-BC919B9C4DCA}.Release.ActiveCfg = Release|.NET
+		{6AC0B278-0E07-4A02-A788-BC919B9C4DCA}.Release.Build.0 = Release|.NET
+		{DCDFB08B-C045-471B-83DD-0604271D73C3}.Debug.ActiveCfg = Release
+		{DCDFB08B-C045-471B-83DD-0604271D73C3}.Debug.Build.0 = Release
+		{DCDFB08B-C045-471B-83DD-0604271D73C3}.Release.ActiveCfg = Release
+		{A87A1565-5CAC-409B-90C7-8A6A2D5C147E}.Debug.ActiveCfg = Release|.NET
+		{A87A1565-5CAC-409B-90C7-8A6A2D5C147E}.Debug.Build.0 = Release|.NET
+		{A87A1565-5CAC-409B-90C7-8A6A2D5C147E}.Release.ActiveCfg = Release|.NET
+		{A87A1565-5CAC-409B-90C7-8A6A2D5C147E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

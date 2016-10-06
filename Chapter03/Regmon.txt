@@ -1,0 +1,452 @@
+1	0.00069539	WINLOGON.EXE:212	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE54BDA00	
+2	0.00072602	WINLOGON.EXE:212	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Software\Microsoft\Windows\CurrentVersion	NOTFOUND		
+3	0.00075473	WINLOGON.EXE:212	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\MediaPath	SUCCESS	"C:\WINNT\Media"	
+4	0.00078750	WINLOGON.EXE:212	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE54BDA00	
+5	0.90702388	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{F3364BA0-65B9-11CE-A9BA-00AA004AE837}	NOTFOUND		
+6	0.90742877	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{F3364BA0-65B9-11CE-A9BA-00AA004AE837}	NOTFOUND		
+7	0.90800066	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{F3364BA0-65B9-11CE-A9BA-00AA004AE837}	NOTFOUND		
+8	0.90824611	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{F3364BA0-65B9-11CE-A9BA-00AA004AE837}	NOTFOUND		
+9	0.90857024	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{F3364BA0-65B9-11CE-A9BA-00AA004AE837}	NOTFOUND		
+10	0.90888954	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{F3364BA0-65B9-11CE-A9BA-00AA004AE837}	NOTFOUND		
+11	0.90925876	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{F3364BA0-65B9-11CE-A9BA-00AA004AE837}	NOTFOUND		
+12	0.90960928	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{F3364BA0-65B9-11CE-A9BA-00AA004AE837}	NOTFOUND		
+13	0.91031806	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{F3364BA0-65B9-11CE-A9BA-00AA004AE837}	NOTFOUND		
+14	0.91106939	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{F3364BA0-65B9-11CE-A9BA-00AA004AE837}	NOTFOUND		
+15	0.91576429	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\ExtShellViews	SUCCESS	Key: 0xE42F6CE0	
+16	0.91582484	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\ExtShellViews\{8BEBB290-52D0-11D0-B7F4-00C04FD706EC}	SUCCESS	Key: 0xE37467C0	
+17	0.91586474	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\ExtShellViews\{8BEBB290-52D0-11D0-B7F4-00C04FD706EC}\MenuName	SUCCESS	"T&humbnails"	
+18	0.91592450	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\ExtShellViews\{8BEBB290-52D0-11D0-B7F4-00C04FD706EC}	SUCCESS	Key: 0xE37467C0	
+19	0.91596521	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\ExtShellViews	SUCCESS	Key: 0xE42F6CE0	
+20	0.91605648	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\ExtShellViews	SUCCESS	Key: 0xE42F6CE0	
+21	0.91611040	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\ExtShellViews\{5984FFE0-28D4-11CF-AE66-08002B2E1262}	SUCCESS	Key: 0xE3D7DFE0	
+22	0.91614129	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\ExtShellViews\{5984FFE0-28D4-11CF-AE66-08002B2E1262}\MenuName	SUCCESS	"as &Web Page"	
+23	0.91617871	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\ExtShellViews\{5984FFE0-28D4-11CF-AE66-08002B2E1262}	SUCCESS	Key: 0xE3D7DFE0	
+24	0.91621676	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\ExtShellViews	SUCCESS	Key: 0xE42F6CE0	
+25	3.86800142	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{60254CA5-953B-11CF-8C96-00AA00B8708C}	NOTFOUND		
+26	3.87663616	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{7BA4C740-9E81-11CF-99D3-00AA004AE837}	NOTFOUND		
+27	3.87750769	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{A470F8CF-A1E8-4F65-8335-227475AA5C46}	NOTFOUND		
+28	3.87885478	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{09799AFB-AD67-11D1-ABCD-00C04FC30936}	NOTFOUND		
+29	3.88847759	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE2640F80	
+30	3.88850775	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	BUFOVRFLOW		
+31	3.88854195	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE2640F80	
+32	3.88860150	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE2640F80	
+33	3.88862682	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	BUFOVRFLOW		
+34	3.88865815	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	SUCCESS	"%1;explorer.exe;dvdplay.exe;mplay32.exe;msohtmed.exe;quikview.exe;rundll.exe;rundll32.exe;taskman.exe;bck32api.dll"	
+35	3.88869288	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE2640F80	
+36	3.89433591	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE6348160	
+37	3.89436229	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	BUFOVRFLOW		
+38	3.89439561	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE6348160	
+39	3.89445334	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE6348160	
+40	3.89447845	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	BUFOVRFLOW		
+41	3.89450962	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	SUCCESS	"%1;explorer.exe;dvdplay.exe;mplay32.exe;msohtmed.exe;quikview.exe;rundll.exe;rundll32.exe;taskman.exe;bck32api.dll"	
+42	3.89454414	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE6348160	
+43	3.89933139	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE56CD3E0	
+44	3.89935805	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	BUFOVRFLOW		
+45	3.89939128	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE56CD3E0	
+46	3.89944931	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE56CD3E0	
+47	3.89947423	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	BUFOVRFLOW		
+48	3.89950508	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	SUCCESS	"%1;explorer.exe;dvdplay.exe;mplay32.exe;msohtmed.exe;quikview.exe;rundll.exe;rundll32.exe;taskman.exe;bck32api.dll"	
+49	3.89953992	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE56CD3E0	
+50	3.90484248	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE4E6AB80	
+51	3.90488264	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	BUFOVRFLOW		
+52	3.90491657	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE4E6AB80	
+53	3.90497514	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE4E6AB80	
+54	3.90500011	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	BUFOVRFLOW		
+55	3.90503113	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	SUCCESS	"%1;explorer.exe;dvdplay.exe;mplay32.exe;msohtmed.exe;quikview.exe;rundll.exe;rundll32.exe;taskman.exe;bck32api.dll"	
+56	3.90506612	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE4E6AB80	
+57	3.90980629	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE4F04240	
+58	3.90983237	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	BUFOVRFLOW		
+59	3.90986592	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE4F04240	
+60	3.90992431	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE4F04240	
+61	3.90994923	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	BUFOVRFLOW		
+62	3.90998056	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	SUCCESS	"%1;explorer.exe;dvdplay.exe;mplay32.exe;msohtmed.exe;quikview.exe;rundll.exe;rundll32.exe;taskman.exe;bck32api.dll"	
+63	3.91001539	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE4F04240	
+64	3.91471660	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE42FE560	
+65	3.91474397	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	BUFOVRFLOW		
+66	3.91478017	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE42FE560	
+67	3.91483894	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE42FE560	
+68	3.91486491	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	BUFOVRFLOW		
+69	3.91489709	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation\KillList	SUCCESS	"%1;explorer.exe;dvdplay.exe;mplay32.exe;msohtmed.exe;quikview.exe;rundll.exe;rundll32.exe;taskman.exe;bck32api.dll"	
+70	3.91493359	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\FileAssociation	SUCCESS	Key: 0xE42FE560	
+71	3.91549143	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{750FDF0E-2A26-11D1-A3EA-080036587F03}	NOTFOUND		
+72	3.91618001	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{BDA77241-42F6-11D0-85E2-00AA001FE28C}	NOTFOUND		
+73	3.91670804	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{BDA77241-42F6-11D0-85E2-00AA001FE28C}	NOTFOUND		
+74	3.91711650	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{21B22460-3AEA-1069-A2DC-08002B30309D}	NOTFOUND		
+75	3.92446514	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{21B22460-3AEA-1069-A2DC-08002B30309D}	NOTFOUND		
+76	3.92548140	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{21B22460-3AEA-1069-A2DC-08002B30309D}	NOTFOUND		
+77	3.92826997	WINLOGON.EXE:212	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE3D7DFE0	
+78	3.92829950	WINLOGON.EXE:212	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Software\Microsoft\Windows\CurrentVersion	NOTFOUND		
+79	3.92832768	WINLOGON.EXE:212	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\MediaPath	SUCCESS	"C:\WINNT\Media"	
+80	3.92835991	WINLOGON.EXE:212	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE3D7DFE0	
+81	4.79577827	WINLOGON.EXE:212	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE3E84F40	
+82	4.79581185	WINLOGON.EXE:212	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Software\Microsoft\Windows\CurrentVersion	NOTFOUND		
+83	4.79584525	WINLOGON.EXE:212	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\MediaPath	SUCCESS	"C:\WINNT\Media"	
+84	4.79588437	WINLOGON.EXE:212	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE3E84F40	
+85	4.79887073	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks	SUCCESS	Key: 0xE5AC3840	
+86	4.79891854	explorer.exe:768	EnumerateValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks\{AEB6717E-7E19-11d0-97EE-00C04FD91972}	SUCCESS	""	
+87	4.79968409	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\URL\Prefixes	SUCCESS	Key: 0xE5709C60	
+88	4.79971516	explorer.exe:768	EnumerateValue	HKLM\Software\Microsoft\Windows\CurrentVersion\URL\Prefixes\ftp	SUCCESS	"ftp://"	
+89	4.79974177	explorer.exe:768	EnumerateValue	HKLM\Software\Microsoft\Windows\CurrentVersion\URL\Prefixes\ftp	SUCCESS	"ftp://"	
+90	4.79979587	explorer.exe:768	EnumerateValue	HKLM\Software\Microsoft\Windows\CurrentVersion\URL\Prefixes\gopher	SUCCESS	"gopher://"	
+91	4.79982512	explorer.exe:768	EnumerateValue	HKLM\Software\Microsoft\Windows\CurrentVersion\URL\Prefixes\gopher	SUCCESS	"gopher://"	
+92	4.79985468	explorer.exe:768	EnumerateValue	HKLM\Software\Microsoft\Windows\CurrentVersion\URL\Prefixes\home	SUCCESS	"http://"	
+93	4.79987974	explorer.exe:768	EnumerateValue	HKLM\Software\Microsoft\Windows\CurrentVersion\URL\Prefixes\home	SUCCESS	"http://"	
+94	4.79990954	explorer.exe:768	EnumerateValue	HKLM\Software\Microsoft\Windows\CurrentVersion\URL\Prefixes\mosaic	SUCCESS	"http://"	
+95	4.79993545	explorer.exe:768	EnumerateValue	HKLM\Software\Microsoft\Windows\CurrentVersion\URL\Prefixes\mosaic	SUCCESS	"http://"	
+96	4.79996541	explorer.exe:768	EnumerateValue	HKLM\Software\Microsoft\Windows\CurrentVersion\URL\Prefixes\www	SUCCESS	"http://"	
+97	4.79999053	explorer.exe:768	EnumerateValue	HKLM\Software\Microsoft\Windows\CurrentVersion\URL\Prefixes\www	SUCCESS	"http://"	
+98	4.80001373	explorer.exe:768	EnumerateValue	HKLM\Software\Microsoft\Windows\CurrentVersion\URL\Prefixes	NOMORE		
+99	4.80005027	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\URL\Prefixes	SUCCESS	Key: 0xE5709C60	
+100	4.80008735	explorer.exe:768	EnumerateValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks	NOMORE		
+101	4.80012228	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks	SUCCESS	Key: 0xE5AC3840	
+102	4.80296513	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\App Paths\WScript.exe	NOTFOUND		
+103	4.80427493	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\App Paths\WScript.exe	NOTFOUND		
+104	4.80433237	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\App Paths\WScript.exe	NOTFOUND		
+105	4.80539711	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\WScript.exe	NOTFOUND		
+106	4.80653445	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\WScript.exe	NOTFOUND		
+107	4.80657739	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\WScript.exe	NOTFOUND		
+108	4.80716402	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\WScript.exe	NOTFOUND		
+109	4.81168184	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\WScript.exe	NOTFOUND		
+110	4.81326682	wscript.exe:2204	OpenKey	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon	SUCCESS	Key: 0xE6DC4900	
+111	4.81332623	wscript.exe:2204	QueryValue	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\LeakTrack	NOTFOUND		
+112	4.81336732	wscript.exe:2204	CloseKey	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon	SUCCESS	Key: 0xE6DC4900	
+113	4.81357026	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Diagnostics	NOTFOUND		
+114	4.81415699	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Compatibility32	SUCCESS	Key: 0xE5A58280	
+115	4.81424107	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Compatibility32\WScript	NOTFOUND		
+116	4.81432947	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Compatibility32	SUCCESS	Key: 0xE5A58280	
+117	4.81441293	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Compatibility2	SUCCESS	Key: 0xE4003620	
+118	4.81452074	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Compatibility2\WScript0.0	NOTFOUND		
+119	4.81455731	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Compatibility2	SUCCESS	Key: 0xE4003620	
+120	4.81464284	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\IME Compatibility	SUCCESS	Key: 0xE13EB860	
+121	4.81468010	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows NT\CurrentVersion\IME Compatibility\WScript	NOTFOUND		
+122	4.81471190	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\IME Compatibility	SUCCESS	Key: 0xE13EB860	
+123	4.81535546	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows	SUCCESS	Key: 0xE13EB860	
+124	4.81539140	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows\AppInit_DLLs	SUCCESS	"NVDESK32.DLL"	
+125	4.82093393	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows	SUCCESS	Key: 0xE13EB860	
+126	4.82181762	wscript.exe:2204	OpenKey	HKLM\SOFTWARE\Microsoft\OLE	SUCCESS	Key: 0xE4F102A0	
+127	4.82185000	wscript.exe:2204	QueryValue	HKLM\SOFTWARE\Microsoft\OLE\PageAllocatorUseSystemHeap	NOTFOUND		
+128	4.82188532	wscript.exe:2204	CloseKey	HKLM\SOFTWARE\Microsoft\OLE	SUCCESS	Key: 0xE4F102A0	
+129	4.82196491	WINLOGON.EXE:212	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE13EB860	
+130	4.82200946	wscript.exe:2204	OpenKey	HKLM\SOFTWARE\Microsoft\OLE	SUCCESS	Key: 0xE4F102A0	
+131	4.82201947	WINLOGON.EXE:212	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Software\Microsoft\Windows\CurrentVersion	NOTFOUND		
+132	4.82205080	WINLOGON.EXE:212	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\MediaPath	SUCCESS	"C:\WINNT\Media"	
+133	4.82209732	WINLOGON.EXE:212	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE13EB860	
+134	4.82216298	wscript.exe:2204	QueryValue	HKLM\SOFTWARE\Microsoft\OLE\PageAllocatorSystemHeapIsPrivate	NOTFOUND		
+135	4.82220147	wscript.exe:2204	CloseKey	HKLM\SOFTWARE\Microsoft\OLE	SUCCESS	Key: 0xE4F102A0	
+136	4.82321961	wscript.exe:2204	OpenKey	HKLM\SOFTWARE\Microsoft\OLEAUT	NOTFOUND		
+137	4.82328308	wscript.exe:2204	OpenKey	HKLM\SOFTWARE\Microsoft\OLEAUT\UserEra	NOTFOUND		
+138	4.82337272	wscript.exe:2204	OpenKey	HKLM\SOFTWARE\Microsoft\OLEAUT	NOTFOUND		
+139	4.83111599	wscript.exe:2204	CreateKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE58A61A0	
+140	4.83116069	wscript.exe:2204	QueryValue	HKLM\SOFTWARE\Microsoft\Cryptography\RNG\Seed	SUCCESS	B1 FE D6 4E B4 91 1A C1 ...	
+141	4.83120965	wscript.exe:2204	CloseKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE58A61A0	
+142	4.83163825	wscript.exe:2204	CreateKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE58A61A0	
+143	4.83202379	wscript.exe:2204	SetValue	HKLM\SOFTWARE\Microsoft\Cryptography\RNG\Seed	SUCCESS	3B FA D5 9A AC 6F E3 44 ...	
+144	4.83205996	wscript.exe:2204	CloseKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE58A61A0	
+145	4.83264079	wscript.exe:2204	CreateKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE58A61A0	
+146	4.83271060	wscript.exe:2204	SetValue	HKLM\SOFTWARE\Microsoft\Cryptography\RNG\Seed	SUCCESS	27 79 AC 86 29 3A 20 CE ...	
+147	4.83274288	wscript.exe:2204	CloseKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE58A61A0	
+148	4.83289736	wscript.exe:2204	CreateKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE58A61A0	
+149	4.83294287	wscript.exe:2204	SetValue	HKLM\SOFTWARE\Microsoft\Cryptography\RNG\Seed	SUCCESS	95 E5 50 DC E5 89 D5 05 ...	
+150	4.83297176	wscript.exe:2204	CloseKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE58A61A0	
+151	4.83312336	wscript.exe:2204	CreateKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE58A61A0	
+152	4.83322141	wscript.exe:2204	SetValue	HKLM\SOFTWARE\Microsoft\Cryptography\RNG\Seed	SUCCESS	78 1D B5 28 1F 5A 7D 4E ...	
+153	4.83391968	wscript.exe:2204	CloseKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE58A61A0	
+154	4.83413867	wscript.exe:2204	CreateKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE58A61A0	
+155	4.83422300	wscript.exe:2204	SetValue	HKLM\SOFTWARE\Microsoft\Cryptography\RNG\Seed	SUCCESS	2D 9C 19 5C E5 89 11 25 ...	
+156	4.83425267	wscript.exe:2204	CloseKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE58A61A0	
+157	4.83440538	wscript.exe:2204	CreateKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE58A61A0	
+158	4.83445138	wscript.exe:2204	SetValue	HKLM\SOFTWARE\Microsoft\Cryptography\RNG\Seed	SUCCESS	15 33 13 B1 18 EE 24 9E ...	
+159	4.83448024	wscript.exe:2204	CloseKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE58A61A0	
+160	4.83464984	wscript.exe:2204	CreateKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE58A61A0	
+161	4.83554627	wscript.exe:2204	SetValue	HKLM\SOFTWARE\Microsoft\Cryptography\RNG\Seed	SUCCESS	EB 41 39 F1 70 33 E1 35 ...	
+162	4.83559232	wscript.exe:2204	CloseKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE58A61A0	
+163	4.83593862	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows Script Host\Settings	SUCCESS	Key: 0xE4318F40	
+164	4.83597732	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows Script Host\Settings\IgnoreUserSettings	SUCCESS	"0"	
+165	4.83602676	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows Script Host\Settings\Enabled	SUCCESS	"1"	
+166	4.83627622	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Rpc\RobustMode	NOTFOUND		
+167	4.83633700	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Rpc	SUCCESS	Key: 0xE544C460	
+168	4.83636110	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Rpc\MaxRpcSize	NOTFOUND		
+169	4.83640143	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\Rpc	SUCCESS	Key: 0xE544C460	
+170	4.83644708	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\WScript.exe\RpcThreadPoolThrottle	NOTFOUND		
+171	4.84397604	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\Windows Script Host\Settings	SUCCESS	Key: 0xE4318F40	
+172	4.84416281	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows Script Host\Settings	SUCCESS	Key: 0xE6114D60	
+173	4.84420139	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows Script Host\Settings\IgnoreUserSettings	SUCCESS	"0"	
+174	4.84533919	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows Script Host\Settings\LogSecuritySuccesses	SUCCESS	"0"	
+175	4.84540373	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\Windows Script Host\Settings	SUCCESS	Key: 0xE6114D60	
+176	4.84607164	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows Script Host\Settings	SUCCESS	Key: 0xE406AE40	
+177	4.84610572	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows Script Host\Settings\IgnoreUserSettings	SUCCESS	"0"	
+178	4.84623760	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows Script Host\Settings\TrustPolicy	SUCCESS	"0"	
+179	4.84626122	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows Script Host\Settings\UseWINSAFER	NOTFOUND		
+180	4.84633875	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\Windows Script Host\Settings	SUCCESS	Key: 0xE406AE40	
+181	4.84639379	wscript.exe:2204	CreateKey	HKLM\Software\Microsoft\Windows Script Host\Settings	SUCCESS	Key: 0xE406AE40	
+182	4.84641884	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows Script Host\Settings\Timeout	NOTFOUND		
+183	4.84667481	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows Script Host\Settings\DisplayLogo	SUCCESS	"1"	
+184	4.84766033	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE6114D60	
+185	4.84769479	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\ProgramFilesDir (x86)	NOTFOUND		
+186	4.84773797	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE6114D60	
+187	4.84806035	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\Windows Script Host\Settings	SUCCESS	Key: 0xE406AE40	
+188	4.86891730	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\COM3\Debug	NOTFOUND		
+189	4.86894707	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\COM3\Debug	NOTFOUND		
+190	4.86919282	wscript.exe:2204	OpenKey	HKLM\Software\Classes	SUCCESS	Key: 0xE51DF5E0	
+191	4.86933119	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE14615C0	
+192	4.86950064	wscript.exe:2204	OpenKey	HKLM\Software\Classes	SUCCESS	Key: 0xE3EE2620	
+193	4.86957158	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE513C300	
+194	4.86965728	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE6A17460	
+195	4.86972994	wscript.exe:2204	OpenKey	HKLM\Software\Classes\CLSID	SUCCESS	Key: 0xE4B7D3A0	
+196	4.86980396	wscript.exe:2204	OpenKey	HKLM\Software\Classes	SUCCESS	Key: 0xE3EAF580	
+197	4.86987231	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE21A5120	
+198	4.86995961	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE2198CE0	
+199	4.87003156	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE4B3BE60	
+200	4.87010265	wscript.exe:2204	OpenKey	HKLM\Software\Classes\CLSID	SUCCESS	Key: 0xE6313420	
+201	4.87034153	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE13536C0	
+202	4.87038415	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\COM3\REGDBVersion	SUCCESS	F2 00 00 00 00 00 00 00 	
+203	4.87044182	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE13536C0	
+204	4.87273679	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{FF393560-C2A7-11CF-BFF4-444553540000}	NOTFOUND		
+205	4.88250457	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE44D7CA0	
+206	4.88254569	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\COM3\REGDBVersion	SUCCESS	F2 00 00 00 00 00 00 00 	
+207	4.88259965	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE44D7CA0	
+208	4.88325079	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE49B3AC0	
+209	4.88328305	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\COM3\REGDBVersion	SUCCESS	F2 00 00 00 00 00 00 00 	
+210	4.88331446	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE49B3AC0	
+211	4.88664932	wscript.exe:2204	OpenKey	HKLM\Software\Policies\Microsoft\Windows\Installer	SUCCESS	Key: 0xE139BEA0	
+212	4.88668102	wscript.exe:2204	QueryValue	HKLM\Software\Policies\Microsoft\Windows\Installer\DisableUserInstalls	NOTFOUND		
+213	4.88675739	wscript.exe:2204	OpenKey	HKLM\Software\Policies\Microsoft\Windows\Installer	SUCCESS	Key: 0xE5A45400	
+214	4.88678211	wscript.exe:2204	QueryValue	HKLM\Software\Policies\Microsoft\Windows\Installer\Debug	NOTFOUND		
+215	4.88684514	wscript.exe:2204	CloseKey	HKLM\Software\Policies\Microsoft\Windows\Installer	SUCCESS	Key: 0xE5A45400	
+216	4.88689171	wscript.exe:2204	CloseKey	HKLM\Software\Policies\Microsoft\Windows\Installer	SUCCESS	Key: 0xE139BEA0	
+217	4.88701703	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\Managed\S-1-5-21-725345543-2052111302-527237240-19640\Installer\Features\57A5BD23CF580314DAC4193857DFB39B	NOTFOUND		
+218	4.88720357	wscript.exe:2204	OpenKey	HKLM\Software\Classes\Installer\Features\57A5BD23CF580314DAC4193857DFB39B	SUCCESS	Key: 0xE588C180	
+219	4.88724093	wscript.exe:2204	EnumerateValue	HKLM\Software\Classes\Installer\Features\57A5BD23CF580314DAC4193857DFB39B\DefaultFeature	SUCCESS	""	
+220	4.88728026	wscript.exe:2204	CloseKey	HKLM\Software\Classes\Installer\Features\57A5BD23CF580314DAC4193857DFB39B	SUCCESS	Key: 0xE588C180	
+221	4.88736660	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\Managed\S-1-5-21-725345543-2052111302-527237240-19640\Installer\Features\57A5BD23CF580314DAC4193857DFB39B	NOTFOUND		
+222	4.88748345	wscript.exe:2204	OpenKey	HKLM\Software\Classes\Installer\Features\57A5BD23CF580314DAC4193857DFB39B	SUCCESS	Key: 0xE588C180	
+223	4.88750482	wscript.exe:2204	EnumerateValue	HKLM\Software\Classes\Installer\Features\57A5BD23CF580314DAC4193857DFB39B	NOMORE		
+224	4.88753952	wscript.exe:2204	CloseKey	HKLM\Software\Classes\Installer\Features\57A5BD23CF580314DAC4193857DFB39B	SUCCESS	Key: 0xE588C180	
+225	4.88776068	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\Managed\S-1-5-21-725345543-2052111302-527237240-19640\Installer\Features\57A5BD23CF580314DAC4193857DFB39B	NOTFOUND		
+226	4.88787766	wscript.exe:2204	OpenKey	HKLM\Software\Classes\Installer\Features\57A5BD23CF580314DAC4193857DFB39B	SUCCESS	Key: 0xE557B280	
+227	4.88790509	wscript.exe:2204	EnumerateValue	HKLM\Software\Classes\Installer\Features\57A5BD23CF580314DAC4193857DFB39B\DefaultFeature	SUCCESS	""	
+228	4.88794012	wscript.exe:2204	CloseKey	HKLM\Software\Classes\Installer\Features\57A5BD23CF580314DAC4193857DFB39B	SUCCESS	Key: 0xE557B280	
+229	4.88802036	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\Managed\S-1-5-21-725345543-2052111302-527237240-19640\Installer\Features\57A5BD23CF580314DAC4193857DFB39B	NOTFOUND		
+230	4.88813694	wscript.exe:2204	OpenKey	HKLM\Software\Classes\Installer\Features\57A5BD23CF580314DAC4193857DFB39B	SUCCESS	Key: 0xE557B280	
+231	4.88815821	wscript.exe:2204	EnumerateValue	HKLM\Software\Classes\Installer\Features\57A5BD23CF580314DAC4193857DFB39B	NOMORE		
+232	4.88819254	wscript.exe:2204	CloseKey	HKLM\Software\Classes\Installer\Features\57A5BD23CF580314DAC4193857DFB39B	SUCCESS	Key: 0xE557B280	
+233	4.88828231	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\Managed\S-1-5-21-725345543-2052111302-527237240-19640\Installer\Features\57A5BD23CF580314DAC4193857DFB39B	NOTFOUND		
+234	4.88839858	wscript.exe:2204	OpenKey	HKLM\Software\Classes\Installer\Features\57A5BD23CF580314DAC4193857DFB39B	SUCCESS	Key: 0xE557B280	
+235	4.88843477	wscript.exe:2204	QueryValue	HKLM\Software\Classes\Installer\Features\57A5BD23CF580314DAC4193857DFB39B\DefaultFeature	SUCCESS	""	
+236	4.88848265	wscript.exe:2204	CloseKey	HKLM\Software\Classes\Installer\Features\57A5BD23CF580314DAC4193857DFB39B	SUCCESS	Key: 0xE557B280	
+237	4.88858197	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\57A5BD23CF580314DAC4193857DFB39B\Features	SUCCESS	Key: 0xE557B280	
+238	4.88862202	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\57A5BD23CF580314DAC4193857DFB39B\Features\DefaultFeature	SUCCESS	"D~gjv-pg(RlM?&Frw,g!"	
+239	4.88871809	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\835FBF1F61D83E2803F367D569516420	SUCCESS	Key: 0xE5A45400	
+240	4.88875735	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\835FBF1F61D83E2803F367D569516420\57A5BD23CF580314DAC4193857DFB39B	SUCCESS	"C:\Program Files\Phil\ComServerInst\ComServer.dll"	
+241	4.88879584	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\835FBF1F61D83E2803F367D569516420	SUCCESS	Key: 0xE5A45400	
+242	4.88920488	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\57A5BD23CF580314DAC4193857DFB39B\Features	SUCCESS	Key: 0xE557B280	
+243	4.88929762	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\57A5BD23CF580314DAC4193857DFB39B\Features	SUCCESS	Key: 0xE557B280	
+244	4.88934569	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\57A5BD23CF580314DAC4193857DFB39B\Features\DefaultFeature	SUCCESS	"D~gjv-pg(RlM?&Frw,g!"	
+245	4.88941462	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\835FBF1F61D83E2803F367D569516420	SUCCESS	Key: 0xE4273460	
+246	4.88949190	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\835FBF1F61D83E2803F367D569516420\57A5BD23CF580314DAC4193857DFB39B	SUCCESS	"C:\Program Files\Phil\ComServerInst\ComServer.dll"	
+247	4.88964378	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\835FBF1F61D83E2803F367D569516420	SUCCESS	Key: 0xE4273460	
+248	4.88968570	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\57A5BD23CF580314DAC4193857DFB39B\Features	SUCCESS	Key: 0xE557B280	
+249	4.88979692	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\Managed\S-1-5-21-725345543-2052111302-527237240-19640\Installer\Products\57A5BD23CF580314DAC4193857DFB39B	NOTFOUND		
+250	4.89000388	wscript.exe:2204	OpenKey	HKLM\Software\Classes\Installer\Products\57A5BD23CF580314DAC4193857DFB39B	SUCCESS	Key: 0xE557B280	
+251	4.89004254	wscript.exe:2204	CloseKey	HKLM\Software\Classes\Installer\Products\57A5BD23CF580314DAC4193857DFB39B	SUCCESS	Key: 0xE557B280	
+252	4.89017662	wscript.exe:2204	CreateKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\57A5BD23CF580314DAC4193857DFB39B\Usage	SUCCESS	Key: 0xE48654A0	
+253	4.89021697	wscript.exe:2204	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\57A5BD23CF580314DAC4193857DFB39B\Usage\DefaultFeature	SUCCESS	0x2E870001	
+254	4.89056182	wscript.exe:2204	SetValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\57A5BD23CF580314DAC4193857DFB39B\Usage\DefaultFeature	SUCCESS	0x2E870002	
+255	4.89063239	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\57A5BD23CF580314DAC4193857DFB39B\Usage	SUCCESS	Key: 0xE48654A0	
+256	4.89094489	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{FF393560-C2A7-11CF-BFF4-444553540000}	NOTFOUND		
+257	4.89265880	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{FF393560-C2A7-11CF-BFF4-444553540000}	NOTFOUND		
+258	4.89337135	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{FF393560-C2A7-11CF-BFF4-444553540000}	NOTFOUND		
+259	4.89876518	wscript.exe:2204	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Performance	NOTFOUND		
+260	4.89966312	wscript.exe:2204	CreateKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer	SUCCESS	Key: 0xE708E460	
+261	6.88741325	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer	SUCCESS	Key: 0xE708E460	
+262	6.88848086	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE14615C0	
+263	6.88859603	wscript.exe:2204	CloseKey	HKLM\Software\Classes	SUCCESS	Key: 0xE51DF5E0	
+264	6.88868496	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE513C300	
+265	6.88876345	wscript.exe:2204	CloseKey	HKLM\Software\Classes	SUCCESS	Key: 0xE3EE2620	
+266	6.88882317	wscript.exe:2204	CloseKey	HKLM\Software\Classes\CLSID	SUCCESS	Key: 0xE4B7D3A0	
+267	6.88891056	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE6A17460	
+268	6.88897948	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE21A5120	
+269	6.88903869	wscript.exe:2204	CloseKey	HKLM\Software\Classes	SUCCESS	Key: 0xE3EAF580	
+270	6.88910296	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE2198CE0	
+271	6.88916366	wscript.exe:2204	CloseKey	HKLM\Software\Classes\CLSID	SUCCESS	Key: 0xE6313420	
+272	6.88922191	wscript.exe:2204	CloseKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE4B3BE60	
+273	6.98667681	WINLOGON.EXE:212	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE570C420	
+274	6.98670820	WINLOGON.EXE:212	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Software\Microsoft\Windows\CurrentVersion	NOTFOUND		
+275	6.98674067	WINLOGON.EXE:212	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\MediaPath	SUCCESS	"C:\WINNT\Media"	
+276	6.98677740	WINLOGON.EXE:212	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE570C420	
+277	7.14206562	rtvscan.exe:756	OpenKey	HKLM\SOFTWARE\Symantec\InstalledApps	SUCCESS	Key: 0xE7A15DE0	
+278	7.14209781	rtvscan.exe:756	QueryValue	HKLM\SOFTWARE\Symantec\InstalledApps\LiveUpdateAdmin	NOTFOUND		
+279	7.14216369	rtvscan.exe:756	CloseKey	HKLM\SOFTWARE\Symantec\InstalledApps	SUCCESS	Key: 0xE7A15DE0	
+280	8.27575791	WINLOGON.EXE:212	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE73D6B60	
+281	8.27578754	WINLOGON.EXE:212	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Software\Microsoft\Windows\CurrentVersion	NOTFOUND		
+282	8.27581608	WINLOGON.EXE:212	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\MediaPath	SUCCESS	"C:\WINNT\Media"	
+283	8.27584864	WINLOGON.EXE:212	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE73D6B60	
+284	9.02186588	WINLOGON.EXE:212	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE73D6B60	
+285	9.02189543	WINLOGON.EXE:212	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Software\Microsoft\Windows\CurrentVersion	NOTFOUND		
+286	9.02192431	WINLOGON.EXE:212	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\MediaPath	SUCCESS	"C:\WINNT\Media"	
+287	9.02195700	WINLOGON.EXE:212	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE73D6B60	
+288	11.81757042	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32	NOTFOUND		
+289	11.81799625	WINLOGON.EXE:212	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE3F88100	
+290	11.81804084	WINLOGON.EXE:212	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Software\Microsoft\Windows\CurrentVersion	NOTFOUND		
+291	11.81807184	WINLOGON.EXE:212	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\MediaPath	SUCCESS	"C:\WINNT\Media"	
+292	11.81810892	WINLOGON.EXE:212	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion	SUCCESS	Key: 0xE3F88100	
+293	11.81871542	Regmon.exe:2240	QueryValue	HKLM\SOFTWARE\MICROSOFT\Windows\CURRENTVERSION\Explorer\Max Cached Icons	NOTFOUND		
+294	11.82060087	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes	SUCCESS	Key: 0xE3669920	
+295	11.82065320	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes\Tahoma	NOTFOUND		
+296	11.82070257	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes	SUCCESS	Key: 0xE3669920	
+297	11.82161280	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes	SUCCESS	Key: 0xE3669920	
+298	11.82165498	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes\MS Shell Dlg	SUCCESS	"Microsoft Sans Serif"	
+299	11.82170364	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes	SUCCESS	Key: 0xE3669920	
+300	11.82368374	Regmon.exe:2240	QueryValue	HKLM\SOFTWARE\MICROSOFT\Windows\CURRENTVERSION\Explorer\Max Cached Icons	NOTFOUND		
+301	11.82417732	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer	SUCCESS	Key: 0xE3669920	
+302	11.82420341	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\ForceActiveDesktopOn	NOTFOUND		
+303	11.82423788	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer	SUCCESS	Key: 0xE3669920	
+304	11.82443809	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer	SUCCESS	Key: 0xE3669920	
+305	11.82446261	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoActiveDesktop	NOTFOUND		
+306	11.82449594	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer	SUCCESS	Key: 0xE3669920	
+307	11.82467717	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer	SUCCESS	Key: 0xE3669920	
+308	11.82470141	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoWebView	NOTFOUND		
+309	11.82473451	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer	SUCCESS	Key: 0xE3669920	
+310	11.82491817	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer	SUCCESS	Key: 0xE3669920	
+311	11.82494236	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\ClassicShell	NOTFOUND		
+312	11.82497600	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer	SUCCESS	Key: 0xE3669920	
+313	11.82515605	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer	SUCCESS	Key: 0xE3669920	
+314	11.82518059	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\DontShowSuperHidden	NOTFOUND		
+315	11.82521400	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer	SUCCESS	Key: 0xE3669920	
+316	11.82539508	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer	SUCCESS	Key: 0xE3669920	
+317	11.82541950	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\SeparateProcess	NOTFOUND		
+318	11.82545261	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer	SUCCESS	Key: 0xE3669920	
+319	11.82612892	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32	NOTFOUND		
+320	11.83163228	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32	NOTFOUND		
+321	11.85248350	Regmon.exe:2240	CreateKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders	SUCCESS	Key: 0xE3F88100	
+322	11.85251651	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders\Common Start Menu	SUCCESS	"%ALLUSERSPROFILE%\Start Menu"	
+323	11.85255486	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders	SUCCESS	Key: 0xE3F88100	
+324	11.87139057	Regmon.exe:2240	CreateKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders	SUCCESS	Key: 0xE4273460	
+325	11.87142209	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders\Common Start Menu	SUCCESS	"%ALLUSERSPROFILE%\Start Menu"	
+326	11.87146030	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders	SUCCESS	Key: 0xE4273460	
+327	11.87976658	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}	SUCCESS	Key: 0xE425B660	
+328	11.87979713	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}\(Default)	SUCCESS	""	
+329	11.87983417	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}	SUCCESS	Key: 0xE425B660	
+330	11.88037527	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE425B660	
+331	11.88040408	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+332	11.88043971	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE425B660	
+333	11.88049540	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+334	11.88719383	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE721F920	
+335	11.88722272	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+336	11.88725866	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE721F920	
+337	11.88731459	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+338	11.88921500	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE721F920	
+339	11.88924203	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+340	11.88927732	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE721F920	
+341	11.88933116	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+342	11.89896978	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE60653C0	
+343	11.89900349	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum\{20D04FE0-3AEA-1069-A2D8-08002B30309D}	NOTFOUND		
+344	11.89905548	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE60653C0	
+345	11.89911211	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{20D04FE0-3AEA-1069-A2D8-08002B30309D}	NOTFOUND		
+346	11.90891241	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE267A7E0	
+347	11.90894599	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum\{208D2C60-3AEA-1069-A2D7-08002B30309D}	NOTFOUND		
+348	11.90899993	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE267A7E0	
+349	11.90905765	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{208D2C60-3AEA-1069-A2D7-08002B30309D}	NOTFOUND		
+350	11.91278421	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoComplete	NOTFOUND		
+351	11.91384033	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE59B8FE0	
+352	11.91402724	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE37C4EC0	
+353	11.91410832	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE469E1E0	
+354	11.91431617	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE43112A0	
+355	11.91439845	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE6DF1840	
+356	11.91447005	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE5E617E0	
+357	11.91464641	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE13E2FE0	
+358	11.91468570	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\COM3\REGDBVersion	SUCCESS	F2 00 00 00 00 00 00 00 	
+359	11.91472872	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE13E2FE0	
+360	11.91615912	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE4EB55E0	
+361	11.91619252	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\COM3\REGDBVersion	SUCCESS	F2 00 00 00 00 00 00 00 	
+362	11.91622500	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE4EB55E0	
+363	11.91870170	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\OLE	SUCCESS	Key: 0xE7269B60	
+364	11.91872873	Regmon.exe:2240	QueryValue	HKLM\SOFTWARE\Microsoft\OLE\DefaultAccessPermission	NOTFOUND		
+365	11.91879520	Regmon.exe:2240	CloseKey	HKLM\SOFTWARE\Microsoft\OLE	SUCCESS	Key: 0xE7269B60	
+366	11.92397286	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{03C036F1-A186-11D0-824A-00AA005B4383}	NOTFOUND		
+367	11.92467848	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE5269340	
+368	11.92471422	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\COM3\REGDBVersion	SUCCESS	F2 00 00 00 00 00 00 00 	
+369	11.92474717	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE5269340	
+370	11.92700703	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{00BB2763-6A77-11D0-A535-00C04FD7D062}	NOTFOUND		
+371	11.92721512	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\windows\CurrentVersion\Explorer\AutoComplete	NOTFOUND		
+372	11.92774997	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\windows\CurrentVersion\Explorer\AutoComplete	NOTFOUND		
+373	11.92852093	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoComplete	NOTFOUND		
+374	11.92868415	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\windows\CurrentVersion\Explorer\AutoComplete	NOTFOUND		
+375	11.93286473	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}	SUCCESS	Key: 0xE424A2E0	
+376	11.93289444	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}\(Default)	SUCCESS	""	
+377	11.93293129	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}	SUCCESS	Key: 0xE424A2E0	
+378	11.93347212	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE424A2E0	
+379	11.93350138	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+380	11.93353690	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE424A2E0	
+381	11.93359249	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+382	11.93472625	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE4EDFFE0	
+383	11.93476060	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\COM3\REGDBVersion	SUCCESS	F2 00 00 00 00 00 00 00 	
+384	11.93479353	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE4EDFFE0	
+385	11.94651013	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+386	11.94901990	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer	SUCCESS	Key: 0xE6F61160	
+387	11.94905196	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoPropertiesMyDocuments	NOTFOUND		
+388	11.94909924	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer	SUCCESS	Key: 0xE6F61160	
+389	11.94939315	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE424A2E0	
+390	11.94942284	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+391	11.94945847	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE424A2E0	
+392	11.94951371	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+393	11.95236970	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+394	11.95291575	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+395	11.95328997	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}	SUCCESS	Key: 0xE5ECEDC0	
+396	11.95331853	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}\(Default)	SUCCESS	""	
+397	11.95335540	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}	SUCCESS	Key: 0xE5ECEDC0	
+398	11.95476957	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}	SUCCESS	Key: 0xE51AE400	
+399	11.95479863	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}\(Default)	SUCCESS	""	
+400	11.95483481	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}	SUCCESS	Key: 0xE51AE400	
+401	11.95522366	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer	SUCCESS	Key: 0xE51AE400	
+402	11.95525098	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoViewOnDrive	NOTFOUND		
+403	11.95529123	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer	SUCCESS	Key: 0xE51AE400	
+404	11.95648889	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+405	11.95704691	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+406	11.95743038	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}	SUCCESS	Key: 0xE6488560	
+407	11.95745995	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}\(Default)	SUCCESS	""	
+408	11.95749659	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}	SUCCESS	Key: 0xE6488560	
+409	11.96056088	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes	SUCCESS	Key: 0xE133CD80	
+410	11.96059541	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes\Tahoma	NOTFOUND		
+411	11.96063141	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes	SUCCESS	Key: 0xE133CD80	
+412	11.96080760	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes	SUCCESS	Key: 0xE133CD80	
+413	11.96083469	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes\Tahoma	NOTFOUND		
+414	11.96087086	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes	SUCCESS	Key: 0xE133CD80	
+415	11.96096525	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes	SUCCESS	Key: 0xE133CD80	
+416	11.96099168	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes\Tahoma	NOTFOUND		
+417	11.96102577	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes	SUCCESS	Key: 0xE133CD80	
+418	11.96151982	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer	SUCCESS	Key: 0xE6F61160	
+419	11.96154710	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\IconUnderline	SUCCESS	NONE	
+420	11.96158779	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer	SUCCESS	Key: 0xE6F61160	
+421	11.96181263	Regmon.exe:2240	QueryValue	HKLM\SOFTWARE\MICROSOFT\Windows\CURRENTVERSION\Explorer\Max Cached Icons	NOTFOUND		
+422	11.96685041	Regmon.exe:2240	CreateKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders	SUCCESS	Key: 0xE4520A80	
+423	11.96688113	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders\Common Start Menu	SUCCESS	"%ALLUSERSPROFILE%\Start Menu"	
+424	11.96691954	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders	SUCCESS	Key: 0xE4520A80	
+425	12.16886399	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+426	12.16942320	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+427	12.16985351	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+428	12.17040729	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+429	12.17079485	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}	SUCCESS	Key: 0xE51AE400	
+430	12.17082384	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}\(Default)	SUCCESS	""	
+431	12.17085999	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}	SUCCESS	Key: 0xE51AE400	
+432	12.17314466	Regmon.exe:2240	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{20D04FE0-3AEA-1069-A2D8-08002B30309D}	NOTFOUND		
+433	12.17689330	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes	SUCCESS	Key: 0xE42736A0	
+434	12.17692747	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes\Tahoma	NOTFOUND		
+435	12.17696462	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes	SUCCESS	Key: 0xE42736A0	
+436	12.18035551	Regmon.exe:2240	OpenKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE147DB40	
+437	12.18039769	Regmon.exe:2240	QueryValue	HKLM\Software\Microsoft\COM3\REGDBVersion	SUCCESS	F2 00 00 00 00 00 00 00 	
+438	12.18044795	Regmon.exe:2240	CloseKey	HKLM\Software\Microsoft\COM3	SUCCESS	Key: 0xE147DB40	
+439	12.18080480	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}	SUCCESS	Key: 0xE43B11C0	
+440	12.18083736	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}\(Default)	SUCCESS	""	
+441	12.18088069	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{450D8FBA-AD25-11D0-98A8-0800361B1103}	SUCCESS	Key: 0xE43B11C0	
+442	12.18150725	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE43B11C0	
+443	12.18154002	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+444	12.18158688	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE43B11C0	
+445	12.18165664	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+446	12.18448553	Regmon.exe:2240	CreateKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE3BB1380	
+447	12.18490398	Regmon.exe:2240	SetValue	HKLM\SOFTWARE\Microsoft\Cryptography\RNG\Seed	SUCCESS	F9 62 C1 36 79 5F 6B 72 ...	
+448	12.18495649	Regmon.exe:2240	CloseKey	HKLM\SOFTWARE\Microsoft\Cryptography\RNG	SUCCESS	Key: 0xE3BB1380	
+449	12.18508475	explorer.exe:768	OpenKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE3746800	
+450	12.18511718	explorer.exe:768	QueryValue	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		
+451	12.18515480	explorer.exe:768	CloseKey	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum	SUCCESS	Key: 0xE3746800	
+452	12.18521489	explorer.exe:768	OpenKey	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Objects\{450D8FBA-AD25-11D0-98A8-0800361B1103}	NOTFOUND		

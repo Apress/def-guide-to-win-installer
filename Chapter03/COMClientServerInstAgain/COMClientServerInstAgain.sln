@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "COMClientServerInstAgain", "COMClientServerInstAgain.vdproj", "{717640BC-D5CB-4B13-AB95-C76BADCD4179}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{717640BC-D5CB-4B13-AB95-C76BADCD4179}.Debug.ActiveCfg = Debug
+		{717640BC-D5CB-4B13-AB95-C76BADCD4179}.Debug.Build.0 = Debug
+		{717640BC-D5CB-4B13-AB95-C76BADCD4179}.Release.ActiveCfg = Release
+		{717640BC-D5CB-4B13-AB95-C76BADCD4179}.Release.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

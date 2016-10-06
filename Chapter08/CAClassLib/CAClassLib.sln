@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAClassLib", "CAClassLib.csproj", "{863BA1EC-9DD3-4BB1-B370-4960ECC6B65F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{F60B89EA-5A3A-4C0C-AAEB-7325A44523C9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{863BA1EC-9DD3-4BB1-B370-4960ECC6B65F} = {863BA1EC-9DD3-4BB1-B370-4960ECC6B65F}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{863BA1EC-9DD3-4BB1-B370-4960ECC6B65F}.Debug.ActiveCfg = Debug|.NET
+		{863BA1EC-9DD3-4BB1-B370-4960ECC6B65F}.Debug.Build.0 = Debug|.NET
+		{863BA1EC-9DD3-4BB1-B370-4960ECC6B65F}.Release.ActiveCfg = Release|.NET
+		{863BA1EC-9DD3-4BB1-B370-4960ECC6B65F}.Release.Build.0 = Release|.NET
+		{F60B89EA-5A3A-4C0C-AAEB-7325A44523C9}.Debug.ActiveCfg = Debug
+		{F60B89EA-5A3A-4C0C-AAEB-7325A44523C9}.Debug.Build.0 = Debug
+		{F60B89EA-5A3A-4C0C-AAEB-7325A44523C9}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

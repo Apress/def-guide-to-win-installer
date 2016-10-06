@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TryNotepad", "TryNotepad.vdproj", "{69CC1552-CFCD-4B19-BF16-049335493056}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{69CC1552-CFCD-4B19-BF16-049335493056}.Debug.ActiveCfg = Debug
+		{69CC1552-CFCD-4B19-BF16-049335493056}.Debug.Build.0 = Debug
+		{69CC1552-CFCD-4B19-BF16-049335493056}.Release.ActiveCfg = Release
+		{69CC1552-CFCD-4B19-BF16-049335493056}.Release.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

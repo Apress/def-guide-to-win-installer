@@ -1,0 +1,9 @@
+; CADll.def : Declares the module parameters.
+
+LIBRARY   "CADll.DLL"
+
+EXPORTS
+	UpgradeList
+	UseCAData
+	RaisePrivilegesSaveReg
+	ShowFilesInUse
